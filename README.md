@@ -2,7 +2,7 @@
 
 > An Angular starter kit featuring [Angular 12.2.12](https://angular.io), [Angular CLI 12.2.12](https://cli.angular.io/)
 
-> it's part of a repo series designed to create a Web Application with Angular
+> It's part of a repo series designed to create a Web Application with Angular
 
 
 ## Quick start
